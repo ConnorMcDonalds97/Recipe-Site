@@ -1,5 +1,23 @@
-img{
+img {
+    display:block;
     height:auto;
-    width: 200;
-    align-self: center;
+    width: 500px;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 72px;
+}
+
+h2 {
+    text-align: center;;
+}
+
+.Desc{
+    text-align: center;
+}
+
+li {
+    margin-left: 500px;
 }
